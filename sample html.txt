@@ -1,0 +1,72 @@
+<html>
+<head style="background-color:white";>
+    
+<header><h1><i>connect to fit </i></h1></header>
+    <style>
+        .center {
+  margin: auto;
+  width: 60%;
+  border: 10px solid #ffffff;
+  padding: 20px;
+}
+
+    div {
+        width: 150px;
+        border: 15px solid rgb(233, 77, 77);
+        padding: 50px;
+        margin: 20px;
+      }
+    div1{
+        width: 150px;
+        border: 15px solid rgb(75, 213, 255);
+        padding: 60px;
+        margin: 40px;
+      }
+      
+    
+      
+    div2{
+        width: 300px;
+        border: 15px solid rgb(255, 254, 254);
+        padding: 50px;
+        margin: 20px;
+      }
+<strong><h2 align="center"; colour:white;>
+      </h2></strong></style>
+</head>
+<body style="background-color:rgb(255, 255, 255)";>
+   <div class="center"><h3><i>A women who looks 20 but in reality 54 years old . Masako mizutani , a women who born in Japan on sep 12 , 1968 . Here are some of her recommendations to stay young for a long time : 
+
+    1. Drink clean water , atleast 1 1/2 L everyday 
+    2. It's necessary to eat only fresh , healthy & balanced food 
+    3. Daily diet should contain fiber content fruits & vegetables 
+    4. Best to eat 4 times a day in smaller portions 
+    5. Completely avoid smoking & drinking 
+    6. Go on a walk everyday in fresh air 
+    7. Avoid stressful situations & feeling hatred 
+    8. Necessary to exercise regularly 
+    9. Get atleast 7-8 hrs sleep everyday 
+    10. Take care for the body & skin of face daily</h3></i></div>
+<div1 class="right"><h4><b>A professional teacher in America who is 45 year old but mistaken as 20 . Joleen diaz was born on 26th January 1977. And these are some of the reasons why she looks so young :
+
+    1. Get enough sleep
+    2. Maintain a helathy and balanced diet 
+    3. Strict fitness regime 
+    4. Skin care 
+    5. Avoids smoke and rarely consumes alcohol 
+    6. Taking in moderation of food
+    7. Hitting gym 5 - 6 times a week 
+    8. Being hydrated</b></h4></div1>
+    <div2><b><h4 style="background-color:DodgerBlue;">
+        Chuando Tan a man born in Singapore on 3rd March 1966 was 57 years old and a fashion model & photographer is seeming young enough like 20 . He has some tips for us to live a young life longer 
+    
+    1. Get enough sleep 
+    2. Stay hydrated 
+    3. Balanced diet - high protein , vegetables , fruits & low in processed food and sugar 
+    4. Taking care of mental and emotional wellbeing 
+    5. Regular exercise for good shape 
+    6. Skin care 
+    7. Practicing mindfulness and meditation 
+    8. Yoga on a regular basis</h4></b></div2>
+</body>
+</html>

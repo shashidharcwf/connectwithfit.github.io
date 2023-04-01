@@ -1,0 +1,26 @@
+science & research backend guidience
+get affordable certified personal coaches 
+get 100% cash back if not reached goal 
+
+
+
+
+
+
+<div id="div1" style="width: 33.3%;height: 200px;background-color: rgb(120, 126, 128);
+padding: 10px;
+float: left;
+border: 5px solid rgb(128, 128, 128);
+margin: 60px; text-align:center; color:rgb(255, 255, 255);"><h1 style="background-color: rgb(120, 126, 128);text-align:center; color:rgb(255, 255, 255);">science & research backend guidience</h1></div>
+
+<div id="div2" style="width: 33.3%;height: 200px; background-color: rgb(120, 126, 128);
+padding: 10px;
+float: left;
+border: 5px solid rgb(128, 128, 128);
+margin: 60px; text-align:center; color:rgb(255, 255, 255);"><h1>get affordable certified personal coaches </h1></div>
+
+<div id="div3" style="width: 33.3%;height: 200px; background-color: rgba(120, 126, 128, 0.932);
+padding: 10px;
+float: left;
+border: 5px solid rgb(128, 128, 128);
+margin: 60px; text-align:center; color:rgb(255, 255, 255);"><h1>get 100% cash back if not reached goal </h1></div>

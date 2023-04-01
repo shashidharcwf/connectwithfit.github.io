@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <h2>HTML Images</h2>
+<p>HTML images are defined with the img tag:</p>
+
+<img src="0016d5e7a442eeadc096881b638ff0e1.jpg" alt="" width="104" height="142">
+
+    </head>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
